@@ -1,18 +1,25 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" alt="sinj0 banner" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=sinj0&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=20%20y%2Fo%20%7C%20breaks%20things%20on%20purpose%20%7C%20seal%20enjoyer&descAlignY=58&descSize=18"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-always_learning-0d1117?style=for-the-badge&labelColor=1a1a2e&color=00e5ff"/>
+  <img src="https://img.shields.io/badge/breaks_things-on_purpose-0d1117?style=for-the-badge&labelColor=1a1a2e&color=7c4dff"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=E0E0E0&center=true&vCenter=true&width=500&lines=always+learning;low-level+systems+programming;breaking+things+to+understand+them" />
+---
 
-<br/>
+### about
 
-<img src="https://skillicons.dev/icons?i=c,python,lua,git,vscode,linux&theme=dark" />
+20 y/o programming enthusiast who loves experimenting and breaking things to understand how they work. Deep into low-level systems programming — file permissions, symlinks, shells. Loves seals.
 
-</div>
+### stack
 
-<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,lua,git,vscode,linux&theme=dark" />
+</p>
 
-## projects
+### projects
 
 <table>
 <tr>
@@ -40,23 +47,6 @@ Drag-and-drop notes board deployed on Vercel.
 </tr>
 </table>
 
-<br/>
+---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sinj0x7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ac1&icon_color=ff6ac1" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinj0x7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ac1" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sinj0x7&theme=radical&hide_border=true&background=0d1117&ring=ff6ac1&fire=ff6ac1"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinj0x7&theme=react-dark&bg_color=0d1117&color=ff6ac1&line=ff6ac1&point=ffffff&hide_border=true" width="90%"/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer"/>
-
-</div>
+<p align="center">find me: <a href="https://github.com/sinj0x7">github.com/sinj0x7</a></p>
