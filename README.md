@@ -1,15 +1,8 @@
-```
- _____ _       _  ____
-/  ___(_)     (_)/ __ \
-\ `--. _ _ __  _| /  \/
- `--. \ | '_ \| | |
-/\__/ / | | | | | \__/\
-\____/|_|_| |_|_|\____/
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF1744,100:FF8A65&height=180&section=header&text=sinj0&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+</p>
 
-### about me
-
-20 y/o programming enthusiast who loves experimenting and breaking things to understand how they work. Deep into low-level systems programming — file permissions, symlinks, shells. Loves seals.
+**20 y/o programming enthusiast who loves experimenting & breaking things. Always learning. Loves seals.**
 
 ### stack
 
