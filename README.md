@@ -1,52 +1,18 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="sinj0 banner" width="100%"/>
-</p>
+```
+ _____ _       _  ____
+/  ___(_)     (_)/ __ \
+\ `--. _ _ __  _| /  \/
+ `--. \ | '_ \| | |
+/\__/ / | | | | | \__/\
+\____/|_|_| |_|_|\____/
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-always_learning-0d1117?style=for-the-badge&labelColor=1a1a2e&color=00e5ff"/>
-  <img src="https://img.shields.io/badge/breaks_things-on_purpose-0d1117?style=for-the-badge&labelColor=1a1a2e&color=7c4dff"/>
-</p>
-
----
-
-### about
+### about me
 
 20 y/o programming enthusiast who loves experimenting and breaking things to understand how they work. Deep into low-level systems programming — file permissions, symlinks, shells. Loves seals.
 
 ### stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,lua,git,vscode,linux&theme=dark" />
-</p>
-
-### projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**VECTOR RUSH**
-HTML5 Canvas rhythm-platformer with procedurally generated music, 8 icon modes, 3 difficulty levels — one self-contained file.
-
-**damusic**
-Spotify stats visualizer built with Flask + Chart.js.
-
-**Animio**
-Anime discovery app, TypeScript/React + AniList API, live on GitHub Pages.
-
-</td>
-<td width="50%" valign="top">
-
-**laser-eyes**
-Real-time webcam laser eye effect using OpenCV + MediaPipe.
-
-**moodboard**
-Drag-and-drop notes board deployed on Vercel.
-
-</td>
-</tr>
-</table>
-
----
-
-<p align="center">find me: <a href="https://github.com/sinj0x7">github.com/sinj0x7</a></p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
