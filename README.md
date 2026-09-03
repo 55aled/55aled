@@ -1,2 +1,2 @@
-***20 y/o programming enthusiast who loves experimenting***
-<p> <img src="https://skillicons.dev/icons?i=c,cs,golang,python&theme=dark" width="150"/> </p>
+***20 yo dumb***
+<p> <img src="https://skillicons.dev/icons?i=c,python&theme=dark" width="150"/> </p>
